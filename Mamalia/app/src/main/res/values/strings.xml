@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mamalia</string>
+    <string name="Mamal1">Ordo Marsupialia</string>
+    <string name="Mamal2"> Ordo Dermoptera</string>
+    <string name="Mamal3"> Ordo Primata </string>
+    <string name="Mamal4"> Ordo Rodentia</string>
+    <string name="Mamal5">Ordo Insektivora</string>
+    <string name="Mamal6"> Ordo Carnivora</string>
+    <string name="Mamal7">Ordo Artiodactyla</string>
+    <string name="Mamal8">Ordo Cetacea</string>
+    <string name="Mamal9">Ordo Perissodactyla</string>
+    <string name="Mamal10">Ordo Laghomorpha</string>
+</resources>
